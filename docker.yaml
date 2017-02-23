@@ -1,0 +1,6 @@
+version: 0.0.1
+packages:
+  - name: docker
+    repo: "https://github.com/docker/docker.git"
+    revision: "78d18021ecba00c00730dec9d56de6896f9e708d"
+    tag: "v1.12.6"
